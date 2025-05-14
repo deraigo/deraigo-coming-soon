@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+html,
+body {
+  background: hsl(0, 0%, 0%);
+  color: hsl(0, 0%, 100%);
+  font-family: "Inter", sans-serif;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
