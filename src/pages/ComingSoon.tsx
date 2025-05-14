@@ -39,7 +39,7 @@ const ComingSoon = () => {
         {/* Social Media Links */}
         <div className="flex justify-center space-x-6 mb-10">
           <a
-            href="https://facebook.com/DraivonOfficial"
+            href="https://www.facebook.com/profile.php?id=61573790370919"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-blue-600 hover:bg-blue-700 text-white p-4 rounded-full transition duration-300"
@@ -48,7 +48,7 @@ const ComingSoon = () => {
             <FaFacebook className="text-2xl" />
           </a>
           <a
-            href="https://instagram.com/DraivonOfficial"
+            href="https://www.instagram.com/deraigoofficial?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
             target="_blank"
             rel="noopener noreferrer"
             className="bg-pink-600 hover:bg-pink-700 text-white p-4 rounded-full transition duration-300"
